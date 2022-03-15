@@ -2,4 +2,4 @@
 
 Software Developer and Designer
 
-Experienced with JavaScript, HTML, CSS, Bootstrap, PHP, Laravel, MySQL, Sequelize, and more.
+Experienced with JavaScript, HTML, CSS, Bootstrap, PHP, Laravel, Node.js, MySQL, Sequelize, and more.
